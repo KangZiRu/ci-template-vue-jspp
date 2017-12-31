@@ -1,2 +1,2 @@
-# ci-template-react-gulp
-CodeIgniter Template with React and Gulp
+# ci-template-vue-jspp
+CodeIgniter Template with Vue, Gulp, and JS++
